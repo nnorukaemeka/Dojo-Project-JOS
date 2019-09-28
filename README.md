@@ -1,7 +1,7 @@
 # Dojo-Project-JOS
 ### Code Plateau 1.0 Bootcamp @NHub Jos, Plateau State, Nigeria.
 
-<b>The Dojo Project</b> is about a system that automatically allocates an office to a new Code Plateau staff, and also to a new Code Plateau Participant(or Fellow) with an optional living space (if the Participant chooses to opt in).
+<b>The Dojo Project</b> is about a system that automatically allocates an office to a new Code Plateau Staff, and also to a new Code Plateau Participant (or Fellow) with an optional living space (if the Participant chooses to opt in).
 
 <b>Problem Description:</b> When a new Code Plateau Participant joins the program, <u>he is assigned an office space and an optional living space if he chooses to opt in</u>. When a new Staff(anyone that is not a Participant) joins, <u>he is assigned an office space only</u>. You are required to digitize and randomize a room allocation system for one of Code Plateau’s centers (i.e NHub) called The Dojo.
 
