@@ -13,6 +13,7 @@ This system will be used to automatically allocate spaces to new Staff and Parti
 
 But wait! if you're a Python Beginner and have not done Object-Oriented Programming (OOP), what other options do you have to handle this project? Or if you are a love of 'List' and 'Dictionary' like me, what would you do to play around the project?
 
-<b>Now, Let's keep it SIMPLE with 'lists', 'dictionaries' and 'functions'.</b> My approach is fun and simple, but then it handles the Problem and the constraints described above.</b>
+<b>Now, Let's keep it SIMPLE with 'lists', 'dictionaries' and 'functions'.</b> No 'class', No 'OOP'!
+My approach is fun and simple, but then it handles the Problem and the constraints described above.</b>
 
 Don't spend further time reading this... just clone the repository and have FUN!!!
