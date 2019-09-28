@@ -11,7 +11,7 @@ This system will be used to automatically allocate spaces to new Staff and Parti
 
 <b>Background:</b> This project is the same with Andela cohort xvii Boot camp project, and a recommended way of handling this project is by proper understanding of Programming Basics, Data Structures, Object-Oriented Programming (OOP) and Test Driven Development (TDD) in Python. Anderson Masese did good job <a href="https://github.com/AndersonMasese/Anderson-Masese-Dojo-Project#sample-output-with-multiple-offices">here</a> using Object-Oriented Programming (OOP). 
 
-But wait! if you're a Python Beginner and have not done to Object-Oriented Programming (OOP), what other options do you have to handle this project? Or if you are a love of 'List' and 'Dictionary' like me, what would you do to play around the project?
+But wait! if you're a Python Beginner and have not done Object-Oriented Programming (OOP), what other options do you have to handle this project? Or if you are a love of 'List' and 'Dictionary' like me, what would you do to play around the project?
 
 <b>Now, Let's keep it SIMPLE with 'lists', 'dictionaries' and 'functions'.</b> My approach is fun and simple, but then it handles the Problem and the constraints described above.</b>
 
